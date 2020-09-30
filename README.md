@@ -1,1 +1,1 @@
-# rectangle-go-ahh
+# Box Class
